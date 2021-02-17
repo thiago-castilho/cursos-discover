@@ -1,3 +1,3 @@
 # cursos-discover
-Cursos da Rocketseat
+Cursos Discover da Rocketseat
 https://app.rocketseat.com.br/dashboard
